@@ -29,9 +29,10 @@ Quantum Tasks is a high-performance, minimal task management application designe
 
 ## 📸 Screenshots
 
-- **Dashboard**: ![Dashboard](https://github.com/RoyDibyaJyoti/QuantumTasks_TODO/blob/main/Dashboard.png)
-- **Authentication**: ![LoginPage](https://github.com/RoyDibyaJyoti/QuantumTasks_TODO/blob/main/Login.png)
-- **Task Creation**: ![NewTask](https://github.com/RoyDibyaJyoti/QuantumTasks_TODO/blob/main/NewTask.png)
+*(Placeholders - update with your live app screenshots)*
+- **Dashboard**: [Link to Dashboard Screenshot]
+- **Authentication**: [Link to Login/Register Screenshot]
+- **Task Creation**: [Link to Modal Screenshot]
 
 ## ⚙️ Installation
 
@@ -89,4 +90,4 @@ The backend exposes a RESTful API protected by JWT middleware:
 - [ ] **Data Export**: Export tasks to JSON or CSV formats.
 
 ---
-Developed by [Dibya Jyoti Roy](https://github.com/RoyDibyaJyoti) with focus on performance and simplicity.
+Developed by [Your Name/Handle] with focus on performance and simplicity.
