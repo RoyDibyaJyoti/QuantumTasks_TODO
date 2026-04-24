@@ -90,4 +90,4 @@ The backend exposes a RESTful API protected by JWT middleware:
 - [ ] **Data Export**: Export tasks to JSON or CSV formats.
 
 ---
-Developed by [Your Name/Handle] with focus on performance and simplicity.
+Developed by [Dibya Jyoti Roy](https://github.com/RoyDibyaJyoti) with focus on performance and simplicity.
